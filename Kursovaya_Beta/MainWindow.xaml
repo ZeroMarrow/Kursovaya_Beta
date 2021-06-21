@@ -25,7 +25,7 @@
                             <DataGridHyperlinkColumn Header="ФИО" Binding="{Binding Path=fio}" Width="150" />
                             <DataGridTextColumn Header="Тип" Binding="{Binding Path=type}" Width="100" />
                             <DataGridTextColumn Header="Возраст" Binding="{Binding Path=age}" Width="70" />
-                            <DataGridTextColumn Header="Тел" Binding="{Binding Path=phone}" Width="110" />
+                            <DataGridTextColumn Header="Тeл" Binding="{Binding Path=phone}" Width="110" />
                             <DataGridTextColumn Header="Статус" Binding="{Binding Path=status}" Width="100" />
                             <DataGridTextColumn Header="Тренер" Binding="{Binding Path=employee}" Width="100" />
                             <DataGridTextColumn Header="Инф. Ресурс" Binding="{Binding Path=resource_inf}" Width="110" />
